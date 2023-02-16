@@ -3,6 +3,11 @@
     padding: 0;
 }
 
+body{
+background-image: url(https://cdn.discordapp.com/attachments/403932356874076168/1075739828873855016/wallpaperapp.jpg);
+ background-size: cover;
+}
+
 #title{
     /* background-color: blue; */
     height: 5%;
@@ -13,12 +18,13 @@
     color: rgb(43, 255, 0);
     font-size: 200%;
     font-weight: bold;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Share Tech Mono', monospace;
 }
 
 #radar{
 
     margin-top: 20%;
+
     color: rgb(0, 255, 0);
     /* background-color: rgb(143, 143, 143); */
 }
@@ -38,10 +44,11 @@ button{
     font-size: 110%;
     padding: 2%;
     color: rgb(0, 255, 42);
+    font-family: 'Share Tech Mono', monospace;
 }
 
 #text_radar{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Share Tech Mono', monospace;
     text-align: center;
 }
 
