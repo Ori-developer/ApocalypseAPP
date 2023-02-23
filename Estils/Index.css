@@ -5,7 +5,8 @@
 
 body{
 background-image: url(https://cdn.discordapp.com/attachments/403932356874076168/1075739828873855016/wallpaperapp.jpg);
- background-size: cover;
+background-repeat: no-repeat;
+background-size: cover;
 }
 
 #title{
@@ -80,6 +81,7 @@ button{
 #container{
     height: 710px;
     width: 425px;
+    margin-top: 6%;
     margin-left: auto;
     margin-right: auto;
     border: 5px rgb(0, 0, 0) solid;
